@@ -1,0 +1,13 @@
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\bin\Debug\netcoreapp3.1\cubo.exe
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\bin\Debug\netcoreapp3.1\cubo.deps.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\bin\Debug\netcoreapp3.1\cubo.runtimeconfig.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\bin\Debug\netcoreapp3.1\cubo.runtimeconfig.dev.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\bin\Debug\netcoreapp3.1\cubo.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\bin\Debug\netcoreapp3.1\cubo.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\obj\Debug\netcoreapp3.1\cubo.csprojAssemblyReference.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\obj\Debug\netcoreapp3.1\cubo.AssemblyInfoInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\obj\Debug\netcoreapp3.1\cubo.AssemblyInfo.cs
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\obj\Debug\netcoreapp3.1\cubo.csproj.CoreCompileInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\obj\Debug\netcoreapp3.1\cubo.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\obj\Debug\netcoreapp3.1\cubo.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\elevacion al cubo\cubo\obj\Debug\netcoreapp3.1\cubo.genruntimeconfig.cache
