@@ -1,0 +1,13 @@
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\bin\Debug\netcoreapp3.1\sueldycomi.exe
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\bin\Debug\netcoreapp3.1\sueldycomi.deps.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\bin\Debug\netcoreapp3.1\sueldycomi.runtimeconfig.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\bin\Debug\netcoreapp3.1\sueldycomi.runtimeconfig.dev.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\bin\Debug\netcoreapp3.1\sueldycomi.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\bin\Debug\netcoreapp3.1\sueldycomi.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\obj\Debug\netcoreapp3.1\sueldycomi.csprojAssemblyReference.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\obj\Debug\netcoreapp3.1\sueldycomi.AssemblyInfoInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\obj\Debug\netcoreapp3.1\sueldycomi.AssemblyInfo.cs
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\obj\Debug\netcoreapp3.1\sueldycomi.csproj.CoreCompileInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\obj\Debug\netcoreapp3.1\sueldycomi.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\obj\Debug\netcoreapp3.1\sueldycomi.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\sueldo y comision\sueldycomi\obj\Debug\netcoreapp3.1\sueldycomi.genruntimeconfig.cache

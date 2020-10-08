@@ -1,0 +1,13 @@
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\bin\Debug\netcoreapp3.1\suma.exe
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\bin\Debug\netcoreapp3.1\suma.deps.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\bin\Debug\netcoreapp3.1\suma.runtimeconfig.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\bin\Debug\netcoreapp3.1\suma.runtimeconfig.dev.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\bin\Debug\netcoreapp3.1\suma.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\bin\Debug\netcoreapp3.1\suma.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\obj\Debug\netcoreapp3.1\suma.csprojAssemblyReference.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\obj\Debug\netcoreapp3.1\suma.AssemblyInfoInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\obj\Debug\netcoreapp3.1\suma.AssemblyInfo.cs
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\obj\Debug\netcoreapp3.1\suma.csproj.CoreCompileInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\obj\Debug\netcoreapp3.1\suma.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\obj\Debug\netcoreapp3.1\suma.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\suma\suma\obj\Debug\netcoreapp3.1\suma.genruntimeconfig.cache

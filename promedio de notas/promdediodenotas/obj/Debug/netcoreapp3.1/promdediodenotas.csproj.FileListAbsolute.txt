@@ -1,0 +1,13 @@
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\bin\Debug\netcoreapp3.1\promdediodenotas.exe
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\bin\Debug\netcoreapp3.1\promdediodenotas.deps.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\bin\Debug\netcoreapp3.1\promdediodenotas.runtimeconfig.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\bin\Debug\netcoreapp3.1\promdediodenotas.runtimeconfig.dev.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\bin\Debug\netcoreapp3.1\promdediodenotas.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\bin\Debug\netcoreapp3.1\promdediodenotas.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\obj\Debug\netcoreapp3.1\promdediodenotas.csprojAssemblyReference.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\obj\Debug\netcoreapp3.1\promdediodenotas.AssemblyInfoInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\obj\Debug\netcoreapp3.1\promdediodenotas.AssemblyInfo.cs
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\obj\Debug\netcoreapp3.1\promdediodenotas.csproj.CoreCompileInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\obj\Debug\netcoreapp3.1\promdediodenotas.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\obj\Debug\netcoreapp3.1\promdediodenotas.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\promedio de notas\promdediodenotas\obj\Debug\netcoreapp3.1\promdediodenotas.genruntimeconfig.cache

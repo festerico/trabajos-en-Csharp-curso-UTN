@@ -1,0 +1,13 @@
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\bin\Debug\netcoreapp3.1\velydist.exe
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\bin\Debug\netcoreapp3.1\velydist.deps.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\bin\Debug\netcoreapp3.1\velydist.runtimeconfig.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\bin\Debug\netcoreapp3.1\velydist.runtimeconfig.dev.json
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\bin\Debug\netcoreapp3.1\velydist.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\bin\Debug\netcoreapp3.1\velydist.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\obj\Debug\netcoreapp3.1\velydist.csprojAssemblyReference.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\obj\Debug\netcoreapp3.1\velydist.AssemblyInfoInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\obj\Debug\netcoreapp3.1\velydist.AssemblyInfo.cs
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\obj\Debug\netcoreapp3.1\velydist.csproj.CoreCompileInputs.cache
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\obj\Debug\netcoreapp3.1\velydist.dll
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\obj\Debug\netcoreapp3.1\velydist.pdb
+C:\Users\NatyCina\Desktop\FEDE\PROGRAMACION\2-UTN\velocidad y distancia\velydist\obj\Debug\netcoreapp3.1\velydist.genruntimeconfig.cache
